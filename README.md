@@ -1,4 +1,5 @@
-[Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgithub-profile&psig=AOvVaw2oQ7HlxcXaLlqMIaxQk6o2&ust=1735115168979000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIigtv39v4oDFQAAAAAdAAAAABAJ)
+Header![360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa](https://github.com/user-attachments/assets/008996ab-7376-46e2-a866-eb46d488fc9c)
+
 <h1 align="center">Hi 👋, I'm Ashhar Khan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/1b/aa/e4/1baae4f66cc7274d2f9e76d66411aefe.gif">
