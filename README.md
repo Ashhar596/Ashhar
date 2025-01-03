@@ -1,4 +1,5 @@
-Header![360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa](https://github.com/user-attachments/assets/008996ab-7376-46e2-a866-eb46d488fc9c)
+Header![360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa](![3171d680-1d98-11ea-9bfd-51ba32490a41](https://github.com/user-attachments/assets/85305303-4ef5-4a95-b212-08cec0ee3cea)
+)
 
 <h1 align="center">Hi 👋, I'm Ashhar Khan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
