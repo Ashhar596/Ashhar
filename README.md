@@ -1,4 +1,5 @@
-Header![360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa](![3171d680-1d98-11ea-9bfd-51ba32490a41](https://github.com/user-attachments/assets/85305303-4ef5-4a95-b212-08cec0ee3cea)
+Header![360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa](![68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067](https://github.com/user-attachments/assets/441dba9a-9378-4aae-a7df-84ecfa788423)
+)
 )
 
 <h1 align="center">Hi 👋, I'm Ashhar Khan</h1>
