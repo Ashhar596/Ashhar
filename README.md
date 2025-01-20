@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ashhar596/Ashhar/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Ashhar Khan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/1b/aa/e4/1baae4f66cc7274d2f9e76d66411aefe.gif">
